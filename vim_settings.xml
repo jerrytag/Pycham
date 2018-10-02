@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1538498716398">
+      <file name="/Python Console" timestamp="1538500387297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/test-0002.py" timestamp="1538498860483">
@@ -11,6 +11,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test01/helloworld.py" timestamp="1538500578779">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538497918908">
         <mark key="[" line="0" column="7" />
@@ -25,7 +31,7 @@
         <text encoding="base64">cHJpbnQoJ2RkZCcpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>fahrenheit=false)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">d2hpbGUgMToK</text>
@@ -34,7 +40,7 @@
         <text encoding="base64">ICAgIGEgPSBwc3V0aWwuY3B1X3BlcmNlbnQoaW50ZXJ2YWw9MC4xLHBlcmNwdT0xKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>fahrenheit=false)</text>
       </register>
     </registers>
     <search>
